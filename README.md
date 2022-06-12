@@ -19,7 +19,8 @@
 I built a full-stack CRUD application to track my favorite & popular quotes stored in a MongoDB database. <br>
 My application is hosted on Heroku.
 <br><br>
-<p id="link">Link to webpage: https://popular-quotes-app.herokuapp.com/</p>
+<h3 id="link">Link to webpage:</h3>
+<p>https://popular-quotes-app.herokuapp.com/</p>
 
 <h3 id="screenshot">Screenshot</h3> 
 
