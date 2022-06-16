@@ -46,6 +46,7 @@ The number of 'likes' on the page will increase by 1 upon each 'thumbs up' click
 
 <h3 id="whatILearned">What I Learned</h3> 
 I learned about databases and related functions, such as creating, reading, deleting and updating data. 
+I learned how to push my code to Heroku, including how to troubleshoot Heroku error codes.
 Also, I learned about object-oriented databases, how to sort data and enter things into the DOM. 
 
 <h3 id="optimizations">Optimizations:</h3>
