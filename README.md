@@ -16,7 +16,7 @@
 </ol>
 
 <h2 id="overview">Overview</h2>
-I built a full-stack CRUD application to track my favorite & popular quotes and stored in a MongoDB database. <br>
+I built a full-stack CRUD application to track my favorite & popular quotes and store in a MongoDB database. <br>
 My application is hosted on Heroku.
 <br><br>
 <h3 id="link">Link to webpage:</h3>
