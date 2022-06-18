@@ -29,13 +29,13 @@ My application is hosted on Heroku.
 <h2 id="process">My Process</h2>
 <h3 id="builtWith">Built With:</h3>
 <ul>
-  <li>Javascript</li>
-  <li>HTML</li>
-  <li>CSS</li>
   <li>MongoDB</li>
   <li>Node.js</li>
   <li>Express</li>
   <li>EJS</li>
+  <li>Javascript</li>
+  <li>HTML</li>
+  <li>CSS</li>
 </ul>
 
 <h3 id="howItWorks">How It Works</h3>
