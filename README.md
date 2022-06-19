@@ -33,9 +33,7 @@ My application is hosted on Heroku.
   <li>Node.js</li>
   <li>Express</li>
   <li>EJS</li>
-  <li>Javascript</li>
-  <li>HTML</li>
-  <li>CSS</li>
+  <li>Javascript/HTML/CSS</li>
 </ul>
 
 <h3 id="howItWorks">How It Works</h3>
